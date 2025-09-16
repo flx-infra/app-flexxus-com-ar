@@ -2,7 +2,7 @@ version: '3.6'
 
 services: 
   flexxusapp:
-    image: fabreguesm/flexxusapp:1.136.6
+    image: fabreguesm/flexxusapp:1.136.6-sl
     ports: 
       - '5005:80'
     networks:
